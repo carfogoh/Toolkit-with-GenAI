@@ -55,17 +55,23 @@ Here’s a clear, step-by-step guide to install Go on Windows
 4.    Check environment variables (usually automatic)
         •	GOROOT → Go install location
         •	PATH → includes C:\Program Files\Go\bin
+
 5.    Test with a simple program (optional)
             package main
-
             import "fmt"
-
             func main() {
                 fmt.Println("Hello, Go!")
             }
-
             Run:
             go run main.go
-
             That’s it—Go is ready to use 🚀
+
+6.     Errors encountered and how I solved it
+                PS C:\Users\User\desktop\goprograms> go run main.go 
+                # command-line-arguments
+                .\hello.go:4:32: invalid character U+005C '\'
+                .\hello.go:4:33: syntax error: unexpected name n in argument list; possibly missing comma or )
+                PS C:\Users\User\desktop\goprograms> go run main.go 
+                Hello, Go!
+                I made a syntax error but with help of Chatgpt I was able to find that I it was a simple mistake
 
