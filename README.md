@@ -73,5 +73,5 @@ Here’s a clear, step-by-step guide to install Go on Windows
                 .\hello.go:4:33: syntax error: unexpected name n in argument list; possibly missing comma or )
                 PS C:\Users\User\desktop\goprograms> go run main.go 
                 Hello, Go!
-                I made a syntax error but with help of Chatgpt I was able to find that I it was a simple mistake
+                I made a syntax error but with help of Chatgpt I was able to find that I it was a simple mistake thanks Chatgpt
 
