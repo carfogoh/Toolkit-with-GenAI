@@ -40,23 +40,23 @@ Tool/Editor required VS code
 Installation instructions (windows example)
 
 Here’s a clear, step-by-step guide to install Go on Windows 
-1.	Download Go
+	Download Go
         •	Go to the official Go website
         •	Download the Windows installer (.msi) for 64-bit
-2.	Run the installer
+	Run the installer
         •	Double-click the .msi file
         •	Click Next and accept the default settings
         •	Go will install (usually to C:\Program Files\Go)
-3.	Verify installation
+	Verify installation
         •	Open Command Prompt or PowerShell
         •	Run:
         •	go version
         •	If installed correctly, you’ll see the Go version printed
-4.    Check environment variables (usually automatic)
+       Check environment variables (usually automatic)
         •	GOROOT → Go install location
         •	PATH → includes C:\Program Files\Go\bin
 
-5.    Test with a simple program (optional)
+      Test with a simple program (optional)
             package main
             import "fmt"
             func main() {
