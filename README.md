@@ -28,6 +28,7 @@ Welcome to the Go Hello World Toolkit, created as part of the Moringa AI Capston
                 • Cloud and microservices systems
                 • Command-line tools
                 • Networking and concurrent systems
+
         Real-world examples:
 
                 • Docker – container technology
@@ -68,8 +69,7 @@ Welcome to the Go Hello World Toolkit, created as part of the Moringa AI Capston
                         • PATH → includes C:\Program Files\Go\bin
 
       Test with a simple program (optional)
-
-                           
+           
                 package main
                 import "fmt"
                 func main() {
