@@ -67,7 +67,7 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
                 • GOROOT → Go install location
                 • PATH → includes C:\Program Files\Go\bin
 
-      Test with a simple program (optional)
+  ##   Test with a simple program (optional)
            
                 package main
                 import "fmt"
@@ -76,18 +76,15 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
                 }
                 Run:
                 go run main.go
+                                     
                 That’s it—Go is ready to use 🚀
 
   ## A working code example with comments
 
                       // Declare the package name. "main" is required for an executable program
-        
                       package main
-        
                       // Import the "fmt" package for formatted I/O (input/output)
-        
                       import "fmt"
-        
                       // Entry point of the program
                       func main() {
                       // Print text to the console with a newline in between
@@ -96,7 +93,7 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
 
 ## To run the program use this command
      Go run main.go
-## Output 
+Output 
     Hello Go!
 
 ## Here’s what happens step by step what the code basically does :
