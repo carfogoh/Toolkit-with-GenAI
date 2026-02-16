@@ -24,7 +24,7 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
 
   ## What it’s used for:
 
-    • Backend web services and APIs
+    • Backend web services and APIs                      
     • Cloud and microservices systems
     • Command-line tools
     • Networking and concurrent systems
@@ -52,7 +52,7 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
                 • Double-click the .msi file
                 • Click Next and accept the default settings
                 • Go will install (usually to C:\Program Files\Go)
-  ##Verify installation
+  ## Verify installation
    
                 • Open Command Prompt or PowerShell
                 • Run:
@@ -111,8 +111,7 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
 
 ## References
 
-    [ Programming Language Specification] - the authoritative source for Go syntax and behavior
-    (https://golang.org/ref/spec)
+    1. [Programming Language Specification](https://golang.org/ref/spec) - the authoritative source for Go syntax and behavior
     2. Go Standard Library Documentation (fmt, time, etc.) – reference for packages like fmt used in printing and formatting
     https://pkg.go.dev/fmt
     https://pkg.go.dev/time
