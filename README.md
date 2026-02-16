@@ -121,6 +121,7 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
     https://tour.golang.org
     5. Go by Example – hands-on examples of Go features like fmt.Println, structs, and loops
     https://gobyexample.com
+    - [Go by Example](https://gobyexample.com/)
 
 ## Author
   Built by **D K KAMAU** for the “Toolkit With GenAi” mini-project using GenAI for setup, debugging, and documentation.
