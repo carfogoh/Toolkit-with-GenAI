@@ -93,7 +93,7 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
 
 ## To run the program use this command
      Go run main.go
-Output 
+#Output 
     Hello Go!
 
 ## Here’s what happens step by step what the code basically does :
@@ -127,5 +127,5 @@ Output
     https://gobyexample.com
 
 ## Author
-  Built by **D K KAMAU .** for the “Toolkit With GenAi” mini-project using GenAI for setup, debugging, and documentation.
+  Built by **D K KAMAU** for the “Toolkit With GenAi” mini-project using GenAI for setup, debugging, and documentation.
                         
