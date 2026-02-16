@@ -6,16 +6,16 @@ This is a Go Hello World Toolkit, created as part of the Moringa AI Capstone Pro
 
 Welcome to the Go Hello World Toolkit, created as part of the Moringa AI Capstone Project. This guide helps beginners learn Go programming language with the support of Generative AI tools.
 
-# Project overview 
+## Project overview 
 
-                This is a simple, beginner-friendly “Hello World” application built with Go. The goal is to learn a new programming language by leveraging AI to:
+This is a simple, beginner-friendly “Hello World” application built with Go. The goal is to learn a new programming language by leveraging AI to:
 
                 a. Understand syntax and  structure
                 b. Set up a working Go environment
                 c. Compile and run basis Go code
                 d. Document the entire process for other to follow
 
-        Why Go Language?
+  ##Why Go Language?
 
                 Go shines because it’s fast, simple, and great at handling concurrency. It produces efficient single binaries, has clean and readable syntax, and includes strong built-in tooling, making it ideal for scalable cloud services, APIs, and infrastructure.
                 Quick summary of GO (GoLang) language
