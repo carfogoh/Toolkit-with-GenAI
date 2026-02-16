@@ -101,7 +101,7 @@ Hello Go!
 
 ## Errors encountered and how I solved it
 PS C:\Users\User\desktop\goprograms> go run main.go 
-# command-line-arguments
+#command-line-arguments
 .\hello.go:4:32: invalid character U+005C '\'
 .\hello.go:4:33: syntax error: unexpected name n in argument list; possibly missing comma or )
 PS C:\Users\User\desktop\goprograms> go run main.go 
@@ -110,18 +110,11 @@ Hello, Go!
 I made a syntax error but with help of Chatgpt I was able to find that I it was a simple mistake
 
 ## References
-2. Go Standard Library Documentation (fmt, time, etc.) – reference for packages like fmt used in printing and formatting
-https://pkg.go.dev/fmt
-https://pkg.go.dev/time
-3. Effective Go – practical guide on idiomatic Go coding practices, including functions, packages, and formatting
-https://golang.org/doc/effective_go.htmls
-4. A Tour of Go – interactive tutorial for beginners to learn Go syntax and concepts
-https://tour.golang.org
-5. Go by Example – hands-on examples of Go features like fmt.Println, structs, and loops
-https://gobyexample.com
-- [Go by Example](https://gobyexample.com/)
+- [Go Standard Library Documentation](https://pkg.go.dev/fmt) - reference for packages like fmt used in printing and formatting
 - [Programming Language Specification](https://golang.org/ref/spec)-the authoritative source for Go syntax and behavior
+- [Go by Example](https://gobyexample.com/)
+- [Effective Go](https://golang.org/doc/effective_go.htmls)) – practical guide on idiomatic Go coding practices, including functions, packages, and formatting
 
 ## Author
-  Built by **D K KAMAU** for the “Toolkit With GenAi” mini-project using GenAI for setup, debugging, and documentation.
+Built by **D K KAMAU** for the “Toolkit With GenAi” mini-project using GenAI for setup, debugging, and documentation.
                         
