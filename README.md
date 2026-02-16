@@ -111,17 +111,17 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
 
 ## References
 
-    1. [Programming Language Specification](https://golang.org/ref/spec) - the authoritative source for Go syntax and behavior
-    2. Go Standard Library Documentation (fmt, time, etc.) – reference for packages like fmt used in printing and formatting
-    https://pkg.go.dev/fmt
-    https://pkg.go.dev/time
-    3. Effective Go – practical guide on idiomatic Go coding practices, including functions, packages, and formatting
-    https://golang.org/doc/effective_go.htmls
-    4. A Tour of Go – interactive tutorial for beginners to learn Go syntax and concepts
-    https://tour.golang.org
-    5. Go by Example – hands-on examples of Go features like fmt.Println, structs, and loops
-    https://gobyexample.com
-    - [Go by Example](https://gobyexample.com/)
+1. [Programming Language Specification](https://golang.org/ref/spec) - the authoritative source for Go syntax and behavior
+2. Go Standard Library Documentation (fmt, time, etc.) – reference for packages like fmt used in printing and formatting
+https://pkg.go.dev/fmt
+https://pkg.go.dev/time
+3. Effective Go – practical guide on idiomatic Go coding practices, including functions, packages, and formatting
+https://golang.org/doc/effective_go.htmls
+4. A Tour of Go – interactive tutorial for beginners to learn Go syntax and concepts
+https://tour.golang.org
+5. Go by Example – hands-on examples of Go features like fmt.Println, structs, and loops
+https://gobyexample.com
+- [Go by Example](https://gobyexample.com/)
 
 ## Author
   Built by **D K KAMAU** for the “Toolkit With GenAi” mini-project using GenAI for setup, debugging, and documentation.
