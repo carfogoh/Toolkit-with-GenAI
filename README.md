@@ -113,7 +113,7 @@ I made a syntax error but with help of Chatgpt I was able to find that I it was 
 - [Go Standard Library Documentation](https://pkg.go.dev/fmt) - reference for packages like fmt used in printing and formatting
 - [Programming Language Specification](https://golang.org/ref/spec)-the authoritative source for Go syntax and behavior
 - [Go by Example](https://gobyexample.com/)
-- [Effective Go](https://golang.org/doc/effective_go.htmls)) – practical guide on idiomatic Go coding practices, including functions, packages, and formatting
+- [Effective Go](https://golang.org/doc/effective_go.htmls) – practical guide on idiomatic Go coding practices, including functions, packages, and formatting
 
 ## Author
 Built by **D K KAMAU** for the “Toolkit With GenAi” mini-project using GenAI for setup, debugging, and documentation.
