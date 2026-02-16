@@ -6,7 +6,7 @@ This is a Go Hello World Toolkit, created as part of the Moringa AI Capstone Pro
 
 Welcome to the Go Hello World Toolkit, created as part of the Moringa AI Capstone Project. This guide helps beginners learn Go programming language with the support of Generative AI tools.
 
-        Project overview 
+# Project overview 
 
                 This is a simple, beginner-friendly “Hello World” application built with Go. The goal is to learn a new programming language by leveraging AI to:
 
