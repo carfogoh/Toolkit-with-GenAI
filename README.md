@@ -1,6 +1,6 @@
 # Toolkit-with-GenAI
 
-                        Go Hello word – Capstone Project Toolkit
+Go Hello word – Capstone Project Toolkit
 
 This is a Go Hello World Toolkit, created as part of the Moringa AI Capstone Project.
 
@@ -46,17 +46,14 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
     Here’s a clear, step-by-step guide to install Go on Windows 
 
                 Download Go
-
                 • Go to the official Go website
                 • Download the Windows installer (.msi) for 64-bit
                 Run the installer
-
                 • Double-click the .msi file
                 • Click Next and accept the default settings
                 • Go will install (usually to C:\Program Files\Go)
-
-                Verify installation
-
+  ##Verify installation
+   
                 • Open Command Prompt or PowerShell
                 • Run:
                 • go version
@@ -93,7 +90,7 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
 
 ## To run the program use this command
      Go run main.go
-#Output 
+## Output 
     Hello Go!
 
 ## Here’s what happens step by step what the code basically does :
@@ -103,19 +100,19 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
     4.    The program finishes and exits.
 
 ## Errors encountered and how I solved it
-       PS C:\Users\User\desktop\goprograms> go run main.go 
-      # command-line-arguments
-      .\hello.go:4:32: invalid character U+005C '\'
-      .\hello.go:4:33: syntax error: unexpected name n in argument list; possibly missing comma or )
-      PS C:\Users\User\desktop\goprograms> go run main.go 
-      Hello, Go!
+    PS C:\Users\User\desktop\goprograms> go run main.go 
+    # command-line-arguments
+    .\hello.go:4:32: invalid character U+005C '\'
+    .\hello.go:4:33: syntax error: unexpected name n in argument list; possibly missing comma or )
+    PS C:\Users\User\desktop\goprograms> go run main.go 
+     Hello, Go!
 
       I made a syntax error but with help of Chatgpt I was able to find that I it was a simple mistake
 
 ## References
 
-    1. Go Programming Language Specification – the authoritative source for Go syntax and behavior
-    https://golang.org/ref/spec
+    [ Programming Language Specification] - the authoritative source for Go syntax and behavior
+    (https://golang.org/ref/spec)
     2. Go Standard Library Documentation (fmt, time, etc.) – reference for packages like fmt used in printing and formatting
     https://pkg.go.dev/fmt
     https://pkg.go.dev/time
