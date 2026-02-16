@@ -10,10 +10,10 @@ Welcome to the Go Hello World Toolkit, created as part of the Moringa AI Capston
 
 This is a simple, beginner-friendly “Hello World” application built with Go. The goal is to learn a new programming language by leveraging AI to:
 
-    a. Understand syntax and  structure
-    b. Set up a working Go environment
-    c. Compile and run basis Go code
-    d. Document the entire process for other to follow
+a. Understand syntax and  structure
+b. Set up a working Go environment
+c. Compile and run basis Go code
+d. Document the entire process for other to follow
 
   ## Why Go Language?
 
@@ -22,27 +22,27 @@ Go shines because it’s fast, simple, and great at handling concurrency. It pro
 Quick summary of GO (GoLang) language
 Go (Golang) is a fast, simple programming language created by Google, designed for building efficient and scalable software.
 
-  ## What it’s used for:
+## What it’s used for:
 
-    • Backend web services and APIs                      
-    • Cloud and microservices systems
-    • Command-line tools
-    • Networking and concurrent systems
+• Backend web services and APIs                      
+• Cloud and microservices systems
+• Command-line tools
+• Networking and concurrent systems
 
-  ## Real-world examples:
-  
-    • Docker – container technology
-    • Kubernetes – container orchestration
-    • Terraform – infrastructure as code
-    • Prometheus – monitoring systems
+## Real-world examples:
 
-  ## System requirements
+• Docker – container technology
+• Kubernetes – container orchestration
+• Terraform – infrastructure as code
+• Prometheus – monitoring systems
 
-    Operating System: Windows, MacOS, Linux
-    Processor: 64-bit
-    Tool/Editor required VS code
+## System requirements
 
-  ## Installation instructions (windows example)
+Operating System: Windows, MacOS, Linux
+Processor: 64-bit
+Tool/Editor required VS code
+
+## Installation instructions (windows example)
     Here’s a clear, step-by-step guide to install Go on Windows 
 
                 Download Go
@@ -91,27 +91,25 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
 ## To run the program use this command
      Go run main.go
 ## Output 
-    Hello Go!
+Hello Go!
 
 ## Here’s what happens step by step what the code basically does :
-    1.    Go starts executing at the main() function.
-    2.    It calls fmt.Println("Hello, Go!").
-    3.    The program sends the text "Hello, Go!" to the terminal and adds a newline at the end.
-    4.    The program finishes and exits.
+1. Go starts executing at the main() function.
+2. It calls fmt.Println("Hello, Go!").
+3. The program sends the text "Hello, Go!" to the terminal and adds a newline at the end.
+4. The program finishes and exits.
 
 ## Errors encountered and how I solved it
-    PS C:\Users\User\desktop\goprograms> go run main.go 
-    # command-line-arguments
-    .\hello.go:4:32: invalid character U+005C '\'
-    .\hello.go:4:33: syntax error: unexpected name n in argument list; possibly missing comma or )
-    PS C:\Users\User\desktop\goprograms> go run main.go 
-     Hello, Go!
+PS C:\Users\User\desktop\goprograms> go run main.go 
+# command-line-arguments
+.\hello.go:4:32: invalid character U+005C '\'
+.\hello.go:4:33: syntax error: unexpected name n in argument list; possibly missing comma or )
+PS C:\Users\User\desktop\goprograms> go run main.go 
+Hello, Go!
 
-      I made a syntax error but with help of Chatgpt I was able to find that I it was a simple mistake
+I made a syntax error but with help of Chatgpt I was able to find that I it was a simple mistake
 
 ## References
-
-1. [Programming Language Specification](https://golang.org/ref/spec) - the authoritative source for Go syntax and behavior
 2. Go Standard Library Documentation (fmt, time, etc.) – reference for packages like fmt used in printing and formatting
 https://pkg.go.dev/fmt
 https://pkg.go.dev/time
@@ -122,6 +120,7 @@ https://tour.golang.org
 5. Go by Example – hands-on examples of Go features like fmt.Println, structs, and loops
 https://gobyexample.com
 - [Go by Example](https://gobyexample.com/)
+- [Programming Language Specification](https://golang.org/ref/spec)-the authoritative source for Go syntax and behavior
 
 ## Author
   Built by **D K KAMAU** for the “Toolkit With GenAi” mini-project using GenAI for setup, debugging, and documentation.
