@@ -100,12 +100,12 @@ Hello Go!
 4. The program finishes and exits.
 
 ## Errors encountered and how I solved it
-PS C:\Users\User\desktop\goprograms> go run main.go 
-#command-line-arguments
-.\hello.go:4:32: invalid character U+005C '\'
-.\hello.go:4:33: syntax error: unexpected name n in argument list; possibly missing comma or )
-PS C:\Users\User\desktop\goprograms> go run main.go 
-Hello, Go!
+- PS C:\Users\User\desktop\goprograms> go run main.go 
+- #command-line-arguments
+- .\hello.go:4:32: invalid character U+005C '\'
+- .\hello.go:4:33: syntax error: unexpected name n in argument list; possibly missing comma or )
+- PS C:\Users\User\desktop\goprograms> go run main.go 
+- Hello, Go!
 
 I made a syntax error but with help of Chatgpt I was able to find that I it was a simple mistake
 
