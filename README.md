@@ -118,7 +118,7 @@ Hello Go!
 “Explain what go language is and how to write a simple program.”
 
 **Response Summary:**
-AI explained go and showed how to package main() and import "fmt".
+AI explained go language and gave a simple program.
 
 **Evaluation:**
 Helped me understand the structure of a Dart program quickly.
@@ -129,7 +129,7 @@ Helped me understand the structure of a Dart program quickly.
 “Give me a go example that Print Hello world”
 
 **Response Summary:**
-AI generated a program using go.
+AI generated a program in go language.
 
 **Evaluation:**
 Saved time and provided a correct syntax example.
