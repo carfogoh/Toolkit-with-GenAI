@@ -99,15 +99,14 @@ Hello Go!
 3. The program sends the text "Hello, Go!" to the terminal and adds a newline at the end.
 4. The program finishes and exits.
 
-## Errors encountered and how I solved it
-- PS C:\Users\User\desktop\goprograms> go run main.go 
-- #command-line-arguments
-- .\hello.go:4:32: invalid character U+005C '\'
-- .\hello.go:4:33: syntax error: unexpected name n in argument list; possibly missing comma or )
-- PS C:\Users\User\desktop\goprograms> go run main.go 
-- Hello, Go!
+## Errors encountered 
 
-I made a syntax error but with help of Chatgpt I was able to find that I it was a simple mistake
+|   | **Issue**	           | **Cause**                                 | **Fix**                        |
+|:--|:---------------------|:------------------------------------------|:-------------------------------|
+|   | go not found         | Go not installed or not added to PATH     | ensure Go/bin is added to system PATH |
+|   | undefined: fmt       | Forgot to import package                  | Add import "fmt"                      |
+|   | File not recognized	 | File not saved as .go                     | Save file with .go extension          |
+|   | Syntax errors      	 | Missing {}, (), "                         | Check syntax carefully                |
 
 ## References
 - [Go Standard Library Documentation](https://pkg.go.dev/fmt) - reference for packages like fmt used in printing and formatting
@@ -115,6 +114,14 @@ I made a syntax error but with help of Chatgpt I was able to find that I it was 
 - [Go by Example](https://gobyexample.com/)
 - [Effective Go](https://golang.org/doc/effective_go.htmls) – practical guide on idiomatic Go coding practices, including functions, packages, and formatting
 
+### Reflection on GenAI Use
+Using AI significantly reduced learning time.
+It helped with:
+* Syntax
+* Debugging
+* Explaining concepts
+* Generating examples
+
 ## Author
-Built by **D K KAMAU** for the “Toolkit With GenAi” mini-project using GenAI for setup, debugging, and documentation.
+Built by **Dennis Kabogo Kamau** for the “Toolkit With GenAi” mini-project using GenAI for setup, debugging, and documentation.
                         
