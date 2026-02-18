@@ -109,6 +109,41 @@ Hello Go!
 2. It calls fmt.Println("Hello, Go!").
 3. The program sends the text "Hello, Go!" to the terminal and adds a newline at the end.
 4. The program finishes and exits.
+## AI Prompt Journal
+-Link to the curriculum for the prompt:https://ai.moringaschool.com/ai-software/ai-use-cases/usecases-documentation/
+
+**Prompt 1**
+
+**Prompt:**
+“Explain what go language is and how to write a simple program.”
+
+**Response Summary:**
+AI explained go and showed how to package main() and import "fmt".
+
+**Evaluation:**
+Helped me understand the structure of a Dart program quickly.
+
+**Prompt 2**
+
+**Prompt:**
+“Give me a go example that Print Hello world”
+
+**Response Summary:**
+AI generated a program using go.
+
+**Evaluation:**
+Saved time and provided a correct syntax example.
+
+**Prompt 3**
+
+**Prompt:**
+“Explain this go code line by line.”
+
+**Response Summary:**
+AI explained the code line by line and gave comments.
+
+**valuation:**
+Improved my understanding and confidence.
 
 ## Errors encountered 
 
