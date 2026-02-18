@@ -10,9 +10,12 @@ Welcome to the Go Hello World Toolkit, created as part of the Moringa AI Capston
 
 This is a simple, beginner-friendly “Hello World” application built with Go. The goal is to learn a new programming language by leveraging AI to:
 
-a. Understand syntax and  structure
+a. Understand syntax and structure
+
 b. Set up a working Go environment
+
 c. Compile and run basis Go code
+                  
 d. Document the entire process for other to follow
 
   ## Why Go Language?
@@ -24,9 +27,12 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
 
 ## What it’s used for:
 
-• Backend web services and APIs                      
+• Backend web services and APIs  
+
 • Cloud and microservices systems
+
 • Command-line tools
+
 • Networking and concurrent systems
 
 ## Real-world examples:
