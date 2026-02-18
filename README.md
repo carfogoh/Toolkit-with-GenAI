@@ -122,6 +122,9 @@ It helped with:
 * Explaining concepts
 * Generating examples
 
+## MIT License
+https://github.com/carfogoh/Toolkit-with-GenAI/blob/main/LICENSE
+
 ## Author
 Built by **Dennis Kabogo Kamau** for the “Toolkit With GenAi” mini-project using GenAI for setup, debugging, and documentation.
                         
