@@ -112,12 +112,12 @@ Hello Go!
 
 ## Errors encountered 
 
-  |   | **Issue**	           | **Cause**                                 | **Fix**                        |
-  |:--|:---------------------|:------------------------------------------|:-------------------------------|
-  |   | go not found         | Go not installed or not added to PATH     | ensure Go/bin is added to system PATH |
-  |   | undefined: fmt       | Forgot to import package                  | Add import "fmt"                      |
-  |   | File not recognized	 | File not saved as .go                     | Save file with .go extension          |
-  |   | Syntax errors      	 | Missing {}, (), "                         | Check syntax carefully                |
+                |   | **Issue**	           | **Cause**                                 | **Fix**                        |
+                |:--|:---------------------|:------------------------------------------|:-------------------------------|
+                |   | go not found         | Go not installed or not added to PATH     | ensure Go/bin is added to system PATH |
+                |   | undefined: fmt       | Forgot to import package                  | Add import "fmt"                      |
+                |   | File not recognized	 | File not saved as .go                     | Save file with .go extension          |
+                |   | Syntax errors      	 | Missing {}, (), "                         | Check syntax carefully                |
 
 ## References
 - [Go Standard Library Documentation](https://pkg.go.dev/fmt) - reference for packages like fmt used in printing and formatting
