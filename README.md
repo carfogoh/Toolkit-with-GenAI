@@ -38,14 +38,19 @@ Go (Golang) is a fast, simple programming language created by Google, designed f
 ## Real-world examples:
 
 • Docker – container technology
+
 • Kubernetes – container orchestration
+
 • Terraform – infrastructure as code
+
 • Prometheus – monitoring systems
 
 ## System requirements
 
 Operating System: Windows, MacOS, Linux
+
 Processor: 64-bit
+
 Tool/Editor required VS code
 
 ## Installation instructions (windows example)
